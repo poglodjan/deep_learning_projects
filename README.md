@@ -3,7 +3,7 @@ This project will mainly focuses on CNN algorithms. We will evaluate them in ter
 
 ## Data 
 In our project we will use data from Kaggle platform:
-- ("https://www.kaggle.com/datasets/mengcius/cinic10")
+- (https://www.kaggle.com/datasets/mengcius/cinic10)
 
 ## Key dates:
 - 4th/5th March - Project plan
