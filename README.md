@@ -10,6 +10,6 @@ In our project we will use data from Kaggle platform:
 - 25th/26th March - Initial presentation
 - 1st/2nd April - Final submission of the project
 
-
+wysłać maila z grupą
 
 
